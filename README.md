@@ -1,14 +1,15 @@
-### Hi there ✌🏻
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="100"/>
-</div>
-
+ <h1 >
+   Hi there
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
 
 
 - 🫠 Finishing up my CE bachelor's at Amirkabir University of Technology(Tehran Polytechnic)
 - 🤓 I’m currently learning AI
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="100"/>
+</div>
+
 - 📫 How to reach me: 
 
 <div id="badges" align="center">
@@ -20,4 +21,4 @@
   </a>
 </div>
 
-
+### 🛠️ Languages and Tools 
