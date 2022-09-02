@@ -14,6 +14,9 @@ This pretty much sums me up:
 - 📫 How to reach me: 
 
 <div id="badges" align="center">
+ <a href="https://maedemir.github.io/">
+    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/maedehmirzazadeh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,6 +24,7 @@ This pretty much sums me up:
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
 
 ### Languages and Tools 🛠️  
 <div>
