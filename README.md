@@ -5,8 +5,8 @@
 
 This pretty much sums me up: 
 
-- 🫠 Finishing up my CE bachelor's at Amirkabir University of Technology
-- 🤓 I’m currently learning AI
+- 🫠 I am a M.Sc. student at UBC!
+- 🤓 I’m currently working on deep learning applications in digital pathology 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="100"/>
 </div>
