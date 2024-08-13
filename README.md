@@ -11,7 +11,7 @@ This pretty much sums me up:
   <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="100"/>
 </div>
 
-- 📫 How to reach me: 
+- 📫 : 
 
 <div id="badges" align="center">
  <a href="https://maedemir.github.io/">
